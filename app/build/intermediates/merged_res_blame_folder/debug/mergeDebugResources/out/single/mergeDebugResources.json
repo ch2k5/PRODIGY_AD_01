@@ -1,0 +1,154 @@
+[
+    {
+        "merged": "C:\\Users\\hp\\Downloads\\gradle\\daemon\\8.7\\com.example.yourcalculator.app-debug-4:\\drawable_ic_exclamation_mark.xml.flat",
+        "source": "C:\\Users\\hp\\Downloads\\gradle\\daemon\\8.7\\com.example.yourcalculator.app-main-6:\\drawable\\ic_exclamation_mark.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Downloads\\gradle\\daemon\\8.7\\com.example.yourcalculator.app-debug-4:\\drawable_ic_back.xml.flat",
+        "source": "C:\\Users\\hp\\Downloads\\gradle\\daemon\\8.7\\com.example.yourcalculator.app-main-6:\\drawable\\ic_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Downloads\\gradle\\daemon\\8.7\\com.example.yourcalculator.app-debug-4:\\mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "C:\\Users\\hp\\Downloads\\gradle\\daemon\\8.7\\com.example.yourcalculator.app-main-6:\\mipmap-anydpi\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Downloads\\gradle\\daemon\\8.7\\com.example.yourcalculator.app-debug-4:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\hp\\Downloads\\gradle\\daemon\\8.7\\com.example.yourcalculator.app-main-6:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Downloads\\gradle\\daemon\\8.7\\com.example.yourcalculator.app-debug-4:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\hp\\Downloads\\gradle\\daemon\\8.7\\com.example.yourcalculator.app-main-6:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Downloads\\gradle\\daemon\\8.7\\com.example.yourcalculator.app-debug-4:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\hp\\Downloads\\gradle\\daemon\\8.7\\com.example.yourcalculator.app-main-6:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Downloads\\gradle\\daemon\\8.7\\com.example.yourcalculator.app-debug-4:\\drawable_ic_equals.xml.flat",
+        "source": "C:\\Users\\hp\\Downloads\\gradle\\daemon\\8.7\\com.example.yourcalculator.app-main-6:\\drawable\\ic_equals.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Downloads\\gradle\\daemon\\8.7\\com.example.yourcalculator.app-debug-4:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\hp\\Downloads\\gradle\\daemon\\8.7\\com.example.yourcalculator.app-main-6:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Downloads\\gradle\\daemon\\8.7\\com.example.yourcalculator.app-debug-4:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\hp\\Downloads\\gradle\\daemon\\8.7\\com.example.yourcalculator.app-main-6:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Downloads\\gradle\\daemon\\8.7\\com.example.yourcalculator.app-debug-4:\\drawable_bg_green.xml.flat",
+        "source": "C:\\Users\\hp\\Downloads\\gradle\\daemon\\8.7\\com.example.yourcalculator.app-main-6:\\drawable\\bg_green.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Downloads\\gradle\\daemon\\8.7\\com.example.yourcalculator.app-debug-4:\\drawable_ic_divide.xml.flat",
+        "source": "C:\\Users\\hp\\Downloads\\gradle\\daemon\\8.7\\com.example.yourcalculator.app-main-6:\\drawable\\ic_divide.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Downloads\\gradle\\daemon\\8.7\\com.example.yourcalculator.app-debug-4:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\hp\\Downloads\\gradle\\daemon\\8.7\\com.example.yourcalculator.app-main-6:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Downloads\\gradle\\daemon\\8.7\\com.example.yourcalculator.app-debug-4:\\drawable_calculator_image.png.flat",
+        "source": "C:\\Users\\hp\\Downloads\\gradle\\daemon\\8.7\\com.example.yourcalculator.app-main-6:\\drawable\\calculator_image.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Downloads\\gradle\\daemon\\8.7\\com.example.yourcalculator.app-debug-4:\\drawable_ic_plus.xml.flat",
+        "source": "C:\\Users\\hp\\Downloads\\gradle\\daemon\\8.7\\com.example.yourcalculator.app-main-6:\\drawable\\ic_plus.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Downloads\\gradle\\daemon\\8.7\\com.example.yourcalculator.app-debug-4:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\hp\\Downloads\\gradle\\daemon\\8.7\\com.example.yourcalculator.app-main-6:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Downloads\\gradle\\daemon\\8.7\\com.example.yourcalculator.app-debug-4:\\drawable_ic_x.xml.flat",
+        "source": "C:\\Users\\hp\\Downloads\\gradle\\daemon\\8.7\\com.example.yourcalculator.app-main-6:\\drawable\\ic_x.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Downloads\\gradle\\daemon\\8.7\\com.example.yourcalculator.app-debug-4:\\drawable_ic_brackets_round.xml.flat",
+        "source": "C:\\Users\\hp\\Downloads\\gradle\\daemon\\8.7\\com.example.yourcalculator.app-main-6:\\drawable\\ic_brackets_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Downloads\\gradle\\daemon\\8.7\\com.example.yourcalculator.app-debug-4:\\drawable_calculator.xml.flat",
+        "source": "C:\\Users\\hp\\Downloads\\gradle\\daemon\\8.7\\com.example.yourcalculator.app-main-6:\\drawable\\calculator.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Downloads\\gradle\\daemon\\8.7\\com.example.yourcalculator.app-debug-4:\\drawable_ic_history.xml.flat",
+        "source": "C:\\Users\\hp\\Downloads\\gradle\\daemon\\8.7\\com.example.yourcalculator.app-main-6:\\drawable\\ic_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Downloads\\gradle\\daemon\\8.7\\com.example.yourcalculator.app-debug-4:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\hp\\Downloads\\gradle\\daemon\\8.7\\com.example.yourcalculator.app-main-6:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Downloads\\gradle\\daemon\\8.7\\com.example.yourcalculator.app-debug-4:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\hp\\Downloads\\gradle\\daemon\\8.7\\com.example.yourcalculator.app-main-6:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Downloads\\gradle\\daemon\\8.7\\com.example.yourcalculator.app-debug-4:\\drawable_bg_brown.xml.flat",
+        "source": "C:\\Users\\hp\\Downloads\\gradle\\daemon\\8.7\\com.example.yourcalculator.app-main-6:\\drawable\\bg_brown.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Downloads\\gradle\\daemon\\8.7\\com.example.yourcalculator.app-debug-4:\\drawable_ic_c.xml.flat",
+        "source": "C:\\Users\\hp\\Downloads\\gradle\\daemon\\8.7\\com.example.yourcalculator.app-main-6:\\drawable\\ic_c.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Downloads\\gradle\\daemon\\8.7\\com.example.yourcalculator.app-debug-4:\\drawable_bg_orange.xml.flat",
+        "source": "C:\\Users\\hp\\Downloads\\gradle\\daemon\\8.7\\com.example.yourcalculator.app-main-6:\\drawable\\bg_orange.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Downloads\\gradle\\daemon\\8.7\\com.example.yourcalculator.app-debug-4:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\hp\\Downloads\\gradle\\daemon\\8.7\\com.example.yourcalculator.app-main-6:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Downloads\\gradle\\daemon\\8.7\\com.example.yourcalculator.app-debug-4:\\layout_activty_basic_calculator.xml.flat",
+        "source": "C:\\Users\\hp\\Downloads\\gradle\\daemon\\8.7\\com.example.yourcalculator.app-main-6:\\layout\\activty_basic_calculator.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Downloads\\gradle\\daemon\\8.7\\com.example.yourcalculator.app-debug-4:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\hp\\Downloads\\gradle\\daemon\\8.7\\com.example.yourcalculator.app-main-6:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Downloads\\gradle\\daemon\\8.7\\com.example.yourcalculator.app-debug-4:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\hp\\Downloads\\gradle\\daemon\\8.7\\com.example.yourcalculator.app-main-6:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.yourcalculator.app-debug-4:/layout_activty_basic_calculator.xml.flat",
+        "source": "com.example.yourcalculator.app-main-6:/layout/activty_basic_calculator.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Downloads\\gradle\\daemon\\8.7\\com.example.yourcalculator.app-debug-4:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\hp\\Downloads\\gradle\\daemon\\8.7\\com.example.yourcalculator.app-main-6:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Downloads\\gradle\\daemon\\8.7\\com.example.yourcalculator.app-debug-4:\\drawable_ic_minus.xml.flat",
+        "source": "C:\\Users\\hp\\Downloads\\gradle\\daemon\\8.7\\com.example.yourcalculator.app-main-6:\\drawable\\ic_minus.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Downloads\\gradle\\daemon\\8.7\\com.example.yourcalculator.app-debug-4:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\hp\\Downloads\\gradle\\daemon\\8.7\\com.example.yourcalculator.app-main-6:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Downloads\\gradle\\daemon\\8.7\\com.example.yourcalculator.app-debug-4:\\drawable_ic_delete.xml.flat",
+        "source": "C:\\Users\\hp\\Downloads\\gradle\\daemon\\8.7\\com.example.yourcalculator.app-main-6:\\drawable\\ic_delete.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Downloads\\gradle\\daemon\\8.7\\com.example.yourcalculator.app-debug-4:\\drawable_ic_square_root.xml.flat",
+        "source": "C:\\Users\\hp\\Downloads\\gradle\\daemon\\8.7\\com.example.yourcalculator.app-main-6:\\drawable\\ic_square_root.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Downloads\\gradle\\daemon\\8.7\\com.example.yourcalculator.app-debug-4:\\drawable_ic_exclamationmark.xml.flat",
+        "source": "C:\\Users\\hp\\Downloads\\gradle\\daemon\\8.7\\com.example.yourcalculator.app-main-6:\\drawable\\ic_exclamationmark.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Downloads\\gradle\\daemon\\8.7\\com.example.yourcalculator.app-debug-4:\\mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\hp\\Downloads\\gradle\\daemon\\8.7\\com.example.yourcalculator.app-main-6:\\mipmap-anydpi\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Downloads\\gradle\\daemon\\8.7\\com.example.yourcalculator.app-debug-4:\\drawable_ic_plus_minus.xml.flat",
+        "source": "C:\\Users\\hp\\Downloads\\gradle\\daemon\\8.7\\com.example.yourcalculator.app-main-6:\\drawable\\ic_plus_minus.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Downloads\\gradle\\daemon\\8.7\\com.example.yourcalculator.app-debug-4:\\drawable_ic_percentage.xml.flat",
+        "source": "C:\\Users\\hp\\Downloads\\gradle\\daemon\\8.7\\com.example.yourcalculator.app-main-6:\\drawable\\ic_percentage.xml"
+    }
+]

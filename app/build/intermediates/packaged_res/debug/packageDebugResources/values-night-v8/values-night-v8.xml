@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FFFBE6</color>
+    <color name="orange">#A9570A</color>
+    <color name="white">#120A00</color>
+    <style name="Base.Theme.YourCalculator" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+        <item name="colorPrimary">@color/orange</item>
+        <item name="colorPrimaryVariant">@color/orange</item>
+        <item name="android:statusBarColor">@color/orange</item>
+    </style>
+</resources>

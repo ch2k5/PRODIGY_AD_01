@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="brown">#594328</color>
+    <color name="gray">#ABABAB</color>
+    <color name="green">#E2FFD6</color>
+    <color name="light_brown">#713D0E</color>
+    <color name="orange">#FA7D09</color>
+    <color name="red">#FF4301</color>
+    <color name="transparent_orange1">#80FA7D09</color>
+    <color name="transparent_orange2">#23FF7B00</color>
+    <color name="white">#FFFBE6</color>
+    <string name="app_name">Your Calculator</string>
+    <style name="Base.Theme.YourCalculator" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+        <item name="colorPrimary">@color/orange</item>
+        <item name="colorPrimaryVariant">@color/orange</item>
+        <item name="android:statusBarColor">@color/orange</item>
+    </style>
+    <style name="Theme.YourCalculator" parent="Base.Theme.YourCalculator"/>
+    <style name="mytoast">
+        <item name="stTextBold">true</item>
+        <item name="stTextColor">@color/white</item>
+        <item name="stTextSize">14sp</item>
+        <item name="stColorBackground">@color/light_brown</item>
+        <item name="stSolidBackground">true</item>
+
+
+        <item name="stIconStart">@drawable/ic_exclamationmark</item>
+
+        <item name="stLength">LONG</item> LONG or SHORT
+
+        <item name="stRadius">15dp</item>
+        <item name="android:padding">4dp</item>
+    </style>
+</resources>

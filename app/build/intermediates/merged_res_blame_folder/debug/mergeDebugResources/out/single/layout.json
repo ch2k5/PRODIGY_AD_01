@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\hp\\Downloads\\gradle\\daemon\\8.7\\com.example.yourcalculator.app-mergeDebugResources-3:\\layout\\activty_basic_calculator.xml",
+        "source": "C:\\Users\\hp\\Downloads\\gradle\\daemon\\8.7\\com.example.yourcalculator.app-main-6:\\layout\\activty_basic_calculator.xml"
+    },
+    {
+        "merged": "com.example.yourcalculator.app-mergeDebugResources-3:/layout/activty_basic_calculator.xml",
+        "source": "com.example.yourcalculator.app-main-6:/layout/activty_basic_calculator.xml"
+    }
+]
